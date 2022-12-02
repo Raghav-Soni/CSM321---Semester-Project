@@ -31,8 +31,3 @@ Here is the plotting of the trajectory in 2D -
 
 **Dependencies**
 > numpy, matplotlib
-
-This code is implemented based on the following papers - 
-
-  1) [The Linear Inverted Pendulum Mode : A simple modeling for a biped walking pattern generation](http://users.dimi.uniud.it/~antonio.dangelo/Robotica/dissertations/helper/3D_Linear_Inverted_Pendulum_Model.pdf)
-  2) [Real-time 3D walking pattern generation for a biped robot](http://users.dimi.uniud.it/~antonio.dangelo/Robotica/2012/helper/K0529.pdf)
